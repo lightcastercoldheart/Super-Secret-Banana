@@ -1,0 +1,25 @@
+body {
+	margin: 10px 10px 10px 10px;
+}
+
+#preloader {
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 999;
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+	background: #ffd700
+	url(http://supersecretbanana.com/img/supersecretbananalogo.gif)
+	no-repeat center center;
+}
+
+#container {
+	width: 90%;	
+}
+
+#sidenav /*fixed float left*/ {
+	width: 20%;
+}
+
